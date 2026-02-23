@@ -1,5 +1,5 @@
 
-public class OopsAsciiArt {
+class OopsAsciiArt {
 
     public static void main(String[] args) {
 
